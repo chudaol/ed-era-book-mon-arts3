@@ -1,0 +1,20 @@
+{   
+    "plugins": [
+        "-mathjax",
+        "-comment",
+        "-search",
+        "-sharing"
+    ],
+    "pluginsConfig": {
+    },
+    "variables": {
+      "basePath": "http://readmon24.ed-era.com/"
+    },
+    "links": {
+        "gitbook": false,
+        "sidebar": {
+          "Зв'язатися з нами: info@ed-era.com": "mailto:info@ed-era.com",
+          "Перейти до інших програм МОН": "http://ed-era.com/mon.html"
+        }
+    }
+}
