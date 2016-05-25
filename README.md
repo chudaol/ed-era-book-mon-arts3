@@ -116,3 +116,44 @@
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Діалектне слово вжито в реченні:</p>
+        <answer correct>Десь курився синій димок од ватри.</answer>
+        <answer>Місяць був ясний, блискучий, як золотий турецький ятаган.</answer>
+        <answer>У дощові дні хмари звисають сивими пасмами.</answer>
+        <answer>У козацьких канцеляріях чорнильниці-каламари мали найрізноманітніші форми</answer>
+    </question>
+</quiz>
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Загальновживаними є всі слова в рядку:</p>
+        <answer correct>щастя, рука, дощ, йти</answer>
+        <answer>абзац, архів, гриф, витяг</answer>
+        <answer>кок, камбуз, кубрик, бак</answer>
+        <answer>вуйко, файний, біти, ватра</answer>
+                <explanation>
+Абзац, архів, гриф, витяг – терміни.<br/>
+Кок, камбуз, кубрик, бак – професійна лексика.<br/>
+Вуйко, файний, біти, ватра – діалектизми.
+    </explanation>
+    </question>
+</quiz>
+
+
+
+<quiz correctLabel="correct" incorrectLabel="incorrect" checkLabel="check">
+    <question text="">
+        <p>Терміном є слово:</p>
+        <answer>літо</answer>
+        <answer correct>підмет</answer>
+        <answer>квасець</answer>
+        <answer>п'ятихвилинка</answer>
+                <explanation>
+Літо – загальновживане слово, квасець – діалектизм, п’ятихвилинка – професіоналізм.
+    </explanation>
+    </question>
+</quiz>
