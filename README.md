@@ -19,7 +19,6 @@
 <div class="fluidMedia">
 <iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/V_Cii41-v-w" frameborder="0" allowfullscreen></iframe>
 </div>
-<div class="popup"></div>
 <div class="space">
 </div>
 
@@ -115,5 +114,5 @@
 </ul>
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>
