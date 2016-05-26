@@ -13,7 +13,7 @@
    * [Робота з природними матеріалами](1/robota_z_prуrodnуmу_materialamу.md)
    * [Прикраси з паперу](1/prуkrasу_z_paperu.md)
    * [Робота з пластиліном](1/robota_z_plastуlinom.md)
-   * [Самообслуговування](1/samoobslugovuvannya.md)
+   * [Самообслуговування. Одяг і взуття](1/samoobslugovuvannya.md)
    * [Комбіновані роботи](1/kombinovani_robotу.md)
    * [Екскурсії](1/ekskursiyi.md)
 * [2 клас](2/2_klas.md)

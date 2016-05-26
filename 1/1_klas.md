@@ -98,7 +98,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 11.</td>
     <td width="40%" style="vertical-align:top !important;">
-Самообслуговування</td>
+Самообслуговування. Одяг і взуття</td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 2</td>
   </tr>

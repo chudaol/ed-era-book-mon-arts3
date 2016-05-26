@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Зміст розділу
+# Зміст розділу 
 1. [Звернення до громадськості](#zvernennya)
 2. [Інструкція з використання](#instruction)
 3. [Вступне опитування](#vstup)
@@ -36,6 +36,7 @@
 1. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/poyasnuvalna_zapyska.html">Пояснювальна записка</a>
 2. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/1_klas.html">1 клас</a>
 <ul type="disc">
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/vstup.html">Вступ</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/papir_v%D1%83d%D1%83_i_vlast%D1%83vosti_paperu.html">Папір. Види і властивості паперу</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/rvannya_paperu.html">Рвання паперу</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/rizannya_paperu.html">Різання паперу</a></li>
@@ -48,7 +49,9 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/samoobslugovuvannya.html">Самообслуговування. Одяг і взуття</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/kombinovani_robot%D1%83.html">Комбіновані роботи</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/ekskursiyi.html">Екскурсії</a></li>
+</ul>
 3. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/2_klas.html">2 клас</a>
+<ul type="disc">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/robota_z_pr%D1%83rodn%D1%83m%D1%83_materialam%D1%83.html">Робота з природними матеріалами</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/aplikatsiya_z_v%D1%83kor%D1%83stannyam_n%D1%83tok.html">Аплікація з використанням ниток</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/zg%D1%83nannya_i_skladannya_paperu.html">Згинання і складання паперу</a></li>
@@ -61,7 +64,9 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/maketuvannya.html">Макетування</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/ekskursiyi.html">Екскурсії</a></li>
+</ul>
 4. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/3_klas.html">3 клас</a>
+<ul type="disc">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/v%D1%83t%D1%83nanka.html">Витинанка</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/mozayika.html">Мозаїка</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/kviling.html">Квілінг</a></li>
@@ -78,7 +83,9 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/v%D1%83gotovlennya_i_ozdoblennya_v%D1%83robiv_obyemnoyi_form%D1%83.html">Виготовлення і оздоблення виробів об’ємної форми</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/ekskursiyi.html">Екскурсії</a></li>
+</ul>
 5. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/4_klas.html">4 клас</a>
+<ul type="disc">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/konstruyuvannya_rukhomikh_modeley_z_kartonu_ta_paperu.html">Конструювання рухомих моделей з картону та паперу</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/v%D1%83t%D1%83nanka.html">Сюжетна витинанка</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/or%D1%83gami.html">Оригамі</a></li>
@@ -96,6 +103,7 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/papye-mashe.html">Пап’є-маше</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/ekskursiyi.html">Екскурсії</a></li>
+</ul>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
