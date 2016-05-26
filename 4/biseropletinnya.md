@@ -12,7 +12,7 @@
 <tbody>
   <tr>
     <td width="10%" style="vertical-align:top !important;">
-6.</td>
+7.</td>
     <td width="10%" style="vertical-align:top !important;">
 3</td>
     <td width="40%" style="vertical-align:top !important;">
