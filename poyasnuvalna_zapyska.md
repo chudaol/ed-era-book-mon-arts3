@@ -27,5 +27,5 @@
 Теми уроків з розділів “Декоративно-ужиткове мистецтво”, “Конструювання з використанням ігрових наборів і конструкторів та (або) їх електронних версій” зазвичай обирається вчителем самостійно залежно від регіональної специфіки та матеріально технічної бази школи з кількості годин відведених на резерв (4 години).
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>
