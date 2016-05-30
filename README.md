@@ -33,7 +33,6 @@
 
 Зміст програми {#programa}
 --
-* [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
 * [1 клас](1/1_klas.md)
    * [Вступ](1/vstup.md)
