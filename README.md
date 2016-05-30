@@ -33,77 +33,70 @@
 
 Зміст програми {#programa}
 --
-1. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/poyasnuvalna_zapyska.html">Пояснювальна записка</a>
-2. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/1_klas.html">1 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/vstup.html">Вступ</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/papir_v%D1%83d%D1%83_i_vlast%D1%83vosti_paperu.html">Папір. Види і властивості паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/rvannya_paperu.html">Рвання паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/rizannya_paperu.html">Різання паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/s%D1%83metr%D1%83chni_form%D1%83.html">Симетричні форми</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/zg%D1%83nannya_i_skladannya_paperu.html">Згинання і складання паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/aplikatsiya_z_paperu.html">Аплікація з паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/robota_z_pr%D1%83rodn%D1%83m%D1%83_materialam%D1%83.html">Робота з природними матеріалами</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/pr%D1%83kras%D1%83_z_paperu.html">Прикраси з паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/robota_z_plast%D1%83linom.html">Робота з пластиліном</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/samoobslugovuvannya.html">Самообслуговування. Одяг і взуття</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/kombinovani_robot%D1%83.html">Комбіновані роботи</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/1/ekskursiyi.html">Екскурсії</a></li>
-</ul>
-3. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/2_klas.html">2 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/robota_z_pr%D1%83rodn%D1%83m%D1%83_materialam%D1%83.html">Робота з природними матеріалами</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/aplikatsiya_z_v%D1%83kor%D1%83stannyam_n%D1%83tok.html">Аплікація з використанням ниток</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/zg%D1%83nannya_i_skladannya_paperu.html">Згинання і складання паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/paperovi_obyemni_figur%D1%83.html">Паперові об'ємні фігури</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/ornament.html">Орнамент</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/or%D1%83gami.html">Оригамі</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/v%D1%83t%D1%83nanka.html">Витинанка</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/robota_z_plast%D1%83linom_na_plosch%D1%83ni_z_elementam%D1%83_tvorchosti.html">Робота з пластиліном на площині з елементами творчості</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/samoobslugovuvannya_kultura_kharchuvannya.html">Самообслуговування. Культура харчування</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/maketuvannya.html">Макетування</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/ekskursiyi.html">Екскурсії</a></li>
-</ul>
-4. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/3_klas.html">3 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/v%D1%83t%D1%83nanka.html">Витинанка</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/mozayika.html">Мозаїка</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/kviling.html">Квілінг</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/or%D1%83gami.html">Оригамі</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/robota_z_plast%D1%83linom.html">Робота з пластиліном</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/kombinuvannya_pr%D1%83rodn%D1%83kh_i_plast%D1%83chn%D1%83kh_materialiv.html">Комбінування природних і пластичних матеріалів</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/robota_z_voloknam%D1%83_ta_n%D1%83tkam%D1%83.html">Робота з волокнами та нитками</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/aplikatsiya_z_tkan%D1%83n%D1%83.html">Аплікація з тканини</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/v%D1%83gotovlennya_obyemn%D1%83kh_figur_z_drotu.html">Виготовлення об’ємних фігур з дроту</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/biseropletinnya.html">Бісероплетіння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/mozayika_z_pr%D1%83rodn%D1%83kh_i_shtuchn%D1%83kh_materialiv.html">Мозаїка з природних і штучних матеріалів</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/dekoruvannya_v%D1%83robiv.html">Декорування виробів</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/samoobslugovuvannya_kultura_kharchuvannya.html">Самообслуговування. Культура харчування</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/v%D1%83gotovlennya_i_ozdoblennya_v%D1%83robiv_obyemnoyi_form%D1%83.html">Виготовлення і оздоблення виробів об’ємної форми</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/3/ekskursiyi.html">Екскурсії</a></li>
-</ul>
-5. <a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/4_klas.html">4 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/konstruyuvannya_rukhomikh_modeley_z_kartonu_ta_paperu.html">Конструювання рухомих моделей з картону та паперу</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/v%D1%83t%D1%83nanka.html">Сюжетна витинанка</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/or%D1%83gami.html">Оригамі</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/v%D1%83gotovlennya_schtuchnyx_kvitiv_obyemnoyi_form%D1%83.html">Виготовлення штучних квітів об’ємної форми</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/kolaz.html">Колаж</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/robota_z_plast%D1%83linom.html">Робота з пластиліном</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/biseropletinnya.html">Бісероплетіння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/robota_z_suchacnymu_schtuchnymy_materialam%D1%83.html">Робота з сучасними штучними матеріалами</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/pletinnya.html">Плетіння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/vishivannya.html">Вишивання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/obyemna_aplikatsiya_z_tkan%D1%83n%D1%83_ta_gydzykiv.html">Об’ємна аплікація з тканини та ґудзиків</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/obyemn%D1%83_figury_z_drotu.html">Об’ємні фігури з дроту</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/dekorat%D1%83vne_panno.html">Декоративне панно</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/khudozhnye_ozdoblennya_ta_d%D1%83zayn.html">Художнє оздоблення та дизайн</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/papye-mashe.html">Пап’є-маше</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/4/ekskursiyi.html">Екскурсії</a></li>
-</ul>
+* [Вступна частина](README.md)
+* [Пояснювальна записка](poyasnuvalna_zapyska.md)
+* [1 клас](1/1_klas.md)
+   * [Вступ](1/vstup.md)
+   * [Папір. Види і властивості паперу](1/papir_vуdу_i_vlastуvosti_paperu.md)
+   * [Рвання паперу](1/rvannya_paperu.md)
+   * [Різання паперу](1/rizannya_paperu.md)
+   * [Симетричні форми](1/sуmetrуchni_formу.md)
+   * [Згинання і складання паперу](1/zgуnannya_i_skladannya_paperu.md)
+   * [Аплікація з паперу](1/aplikatsiya_z_paperu.md)
+   * [Робота з природними матеріалами](1/robota_z_prуrodnуmу_materialamу.md)
+   * [Прикраси з паперу](1/prуkrasу_z_paperu.md)
+   * [Робота з пластиліном](1/robota_z_plastуlinom.md)
+   * [Самообслуговування. Одяг і взуття](1/samoobslugovuvannya.md)
+   * [Комбіновані роботи](1/kombinovani_robotу.md)
+   * [Екскурсії](1/ekskursiyi.md)
+* [2 клас](2/2_klas.md)
+   * [Робота з природними матеріалами](2/robota_z_prуrodnуmу_materialamу.md)
+   * [Аплікація з використанням ниток](2/aplikatsiya_z_vуkorуstannyam_nуtok.md)
+   * [Згинання і складання паперу](2/zgуnannya_i_skladannya_paperu.md)
+   * [Паперові об'ємні фігури](2/paperovi_obyemni_figurу.md)
+   * [Орнамент](2/ornament.md)
+   * [Оригамі](2/orуgami.md)
+   * [Витинанка](2/vуtуnanka.md)
+   * [Робота з пластиліном на площині з елементами творчості](2/robota_z_plastуlinom_na_ploschуni_z_elementamу_tvorchosti.md)
+   * [Самообслуговування. Культура харчування](2/samoobslugovuvannya_kultura_kharchuvannya.md)
+   * [Самообслуговування. Одяг і взуття](2/samoobslugovuvannya_odyag_i_vzuttya.md)
+   * [Макетування](2/maketuvannya.md)
+   * [Екскурсії](2/ekskursiyi.md)
+* [3 клас](3/3_klas.md)
+   * [Витинанка](3/vуtуnanka.md)
+   * [Мозаїка](3/mozayika.md)
+   * [Квілінг](3/kviling.md)
+   * [Оригамі](3/orуgami.md)
+   * [Робота з пластиліном](3/robota_z_plastуlinom.md)
+   * [Комбінування природних і пластичних матеріалів](3/kombinuvannya_prуrodnуkh_i_plastуchnуkh_materialiv.md)
+   * [Робота з волокнами та нитками](3/robota_z_voloknamу_ta_nуtkamу.md)
+   * [Аплікація з тканини](3/aplikatsiya_z_tkanуnу.md)
+   * [Виготовлення об'ємних фігур з дроту](3/vуgotovlennya_obyemnуkh_figur_z_drotu.md)
+   * [Бісероплетіння](3/biseropletinnya.md)
+   * [Мозаїка з природних і штучних матеріалів](3/mozayika_z_prуrodnуkh_i_shtuchnуkh_materialiv.md)
+   * [Декорування виробів](3/dekoruvannya_vуrobiv.md)
+   * [Самообслуговування. Культура харчування](3/samoobslugovuvannya_kultura_kharchuvannya.md)
+   * [Самообслуговування. Одяг і взуття](3/samoobslugovuvannya_odyag_i_vzuttya.md)
+   * [Виготовлення і оздоблення виробів об'ємної форми](3/vуgotovlennya_i_ozdoblennya_vуrobiv_obyemnoyi_formу.md)
+   * [Екскурсії](3/ekskursiyi.md)
+* [4 клас](4/4_klas.md)
+   * [Конструювання рухомих моделей з картону та паперу](4/konstruyuvannya_rukhomikh_modeley_z_kartonu_ta_paperu.md)
+   * [Сюжетна витинанка](4/vуtуnanka.md)
+   * [Оригамі](4/orуgami.md)
+   * [Виготовлення штучних квітів об’ємної форми](4/vуgotovlennya_schtuchnyx_kvitiv_obyemnoyi_formу.md)
+   * [Колаж](4/kolaz.md)
+   * [Робота з пластиліном](4/robota_z_plastуlinom.md)
+   * [Бісероплетіння](4/biseropletinnya.md)
+   * [Робота з сучасними штучними матеріалами](4/robota_z_suchacnymu_schtuchnymy_materialamу.md)
+   * [Плетіння](4/pletinnya.md)
+   * [Вишивання](4/vishivannya.md)
+   * [Об’ємна аплікація з тканини та ґудзиків](4/obyemna_aplikatsiya_z_tkanуnу_ta_gydzykiv.md)
+   * [Об’ємні фігури з дроту](4/obyemnу_figury_z_drotu.md)
+   * [Декоративне панно](4/dekoratуvne_panno.md)
+   * [Художнє оздоблення та дизайн](4/khudozhnye_ozdoblennya_ta_dуzayn.md)
+   * [Самообслуговування. Одяг і взуття](4/samoobslugovuvannya_odyag_i_vzuttya.md)
+   * [Пап’є-маше](4/papye-mashe.md)
+   * [Екскурсії](4/ekskursiyi.md)
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

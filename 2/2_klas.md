@@ -17,7 +17,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 1.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/robota_z_pr%D1%83rodn%D1%83m%D1%83_materialam%D1%83.html">Робота з природними матеріалами</a></td>
+<a href="http://workmon14.ed-era.com/2/robota_z_pr%D1%83rodn%D1%83m%D1%83_materialam%D1%83.html">Робота з природними матеріалами</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 4</td>
   </tr>
@@ -28,7 +28,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 2.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/aplikatsiya_z_v%D1%83kor%D1%83stannyam_n%D1%83tok.html">Аплікація з використанням ниток</a></td>
+<a href="http://workmon14.ed-era.com/2/aplikatsiya_z_v%D1%83kor%D1%83stannyam_n%D1%83tok.html">Аплікація з використанням ниток</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 2</td>
   </tr>
@@ -36,7 +36,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 3.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/zg%D1%83nannya_i_skladannya_paperu.html">Згинання і складання паперу</a></td>
+<a href="http://workmon14.ed-era.com/2/zg%D1%83nannya_i_skladannya_paperu.html">Згинання і складання паперу</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 4</td>
   </tr>
@@ -44,7 +44,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 4.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/paperovi_obyemni_figur%D1%83.html">Паперові об'ємні фігури</a></td>
+<a href="http://workmon14.ed-era.com/2/paperovi_obyemni_figur%D1%83.html">Паперові об'ємні фігури</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 2</td>
   </tr>
@@ -52,7 +52,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 5.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/ornament.html">Орнамент</a></td>
+<a href="http://workmon14.ed-era.com/2/ornament.html">Орнамент</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 2</td>
   </tr>
@@ -60,7 +60,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 6.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/or%D1%83gami.html">Оригамі</a></td>
+<a href="http://workmon14.ed-era.com/2/or%D1%83gami.html">Оригамі</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 3</td>
   </tr>
@@ -68,7 +68,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 7.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/v%D1%83t%D1%83nanka.html">Витинанка</a></td>
+<a href="http://workmon14.ed-era.com/2/v%D1%83t%D1%83nanka.html">Витинанка</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 3</td>
   </tr>
@@ -76,7 +76,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 8.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/robota_z_plast%D1%83linom_na_plosch%D1%83ni_z_elementam%D1%83_tvorchosti.html">Робота з пластиліном на площині з елементами творчості</a></td>
+<a href="http://workmon14.ed-era.com/2/robota_z_plast%D1%83linom_na_plosch%D1%83ni_z_elementam%D1%83_tvorchosti.html">Робота з пластиліном на площині з елементами творчості</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 4</td>
   </tr>
@@ -84,7 +84,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 9.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/samoobslugovuvannya_kultura_kharchuvannya.html">Самообслуговування. Культура харчування</a></td>
+<a href="http://workmon14.ed-era.com/2/samoobslugovuvannya_kultura_kharchuvannya.html">Самообслуговування. Культура харчування</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 1</td>
   </tr>
@@ -92,7 +92,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 5.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></td>
+<a href="http://workmon14.ed-era.com/2/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 1</td>
   </tr>
@@ -100,7 +100,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 11.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/maketuvannya.html">Макетування</a></td>
+<a href="http://workmon14.ed-era.com/2/maketuvannya.html">Макетування</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 3</td>
   </tr>
@@ -108,7 +108,7 @@
     <td width="5%" align="center" style="vertical-align:top !important;">
 12.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="https://edera.gitbooks.io/ed-era-book-mon-arts3/content/2/ekskursiyi.html">Екскурсії</a></td>
+<a href="http://workmon14.ed-era.com/2/ekskursiyi.html">Екскурсії</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
 2</td>
   </tr>
