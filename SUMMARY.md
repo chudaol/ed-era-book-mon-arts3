@@ -1,7 +1,9 @@
-# Summary
+### Вступ
 
 * [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
+
+### 1 Клас
 * [1 клас](1/1_klas.md)
    * [Вступ](1/vstup.md)
    * [Папір. Види і властивості паперу](1/papir_vуdу_i_vlastуvosti_paperu.md)
@@ -16,6 +18,8 @@
    * [Самообслуговування. Одяг і взуття](1/samoobslugovuvannya.md)
    * [Комбіновані роботи](1/kombinovani_robotу.md)
    * [Екскурсії](1/ekskursiyi.md)
+
+### 2 Клас
 * [2 клас](2/2_klas.md)
    * [Робота з природними матеріалами](2/robota_z_prуrodnуmу_materialamу.md)
    * [Аплікація з використанням ниток](2/aplikatsiya_z_vуkorуstannyam_nуtok.md)
@@ -29,6 +33,8 @@
    * [Самообслуговування. Одяг і взуття](2/samoobslugovuvannya_odyag_i_vzuttya.md)
    * [Макетування](2/maketuvannya.md)
    * [Екскурсії](2/ekskursiyi.md)
+
+### 3 Клас
 * [3 клас](3/3_klas.md)
    * [Витинанка](3/vуtуnanka.md)
    * [Мозаїка](3/mozayika.md)
@@ -46,6 +52,8 @@
    * [Самообслуговування. Одяг і взуття](3/samoobslugovuvannya_odyag_i_vzuttya.md)
    * [Виготовлення і оздоблення виробів об'ємної форми](3/vуgotovlennya_i_ozdoblennya_vуrobiv_obyemnoyi_formу.md)
    * [Екскурсії](3/ekskursiyi.md)
+
+### 4 Клас
 * [4 клас](4/4_klas.md)
    * [Конструювання рухомих моделей з картону та паперу](4/konstruyuvannya_rukhomikh_modeley_z_kartonu_ta_paperu.md)
    * [Сюжетна витинанка](4/vуtуnanka.md)
