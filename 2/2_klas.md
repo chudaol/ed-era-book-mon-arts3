@@ -5,13 +5,11 @@
 ## Орієнтовна сітка розподілу навчальних годин за темами програмового матеріалу 
 
 <table>
-<thead>
   <tr>
-    <th width="5%" align="center"><p>№ з/п</p></td>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="5%" align="center"><p>Кількість годин</p></td>
+    <td width="5%" align="center"><b>№ з/п</b></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу</b></td>
+    <td width="5%" align="center"><b>Кількість годин</b></td>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">
@@ -90,7 +88,7 @@
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">
-5.</td>
+10.</td>
     <td width="40%" style="vertical-align:top !important;">
 <a href="http://workmon14.ed-era.com/2/samoobslugovuvannya_odyag_i_vzuttya.html">Самообслуговування. Одяг і взуття</a></td>
     <td width="5%" align="center" style="vertical-align:top !important;">
@@ -114,7 +112,7 @@
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align:top !important;">
-14.</td>
+13.</td>
     <td width="40%" style="vertical-align:top !important;">
 Резерв</td>
     <td width="5%" align="center" style="vertical-align:top !important;">

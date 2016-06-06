@@ -3,14 +3,12 @@
 # Виготовлення штучних квітів об’ємної форми
 
 <table>
-<thead>
   <tr>
-    <th width="10%" align="center"><p>№ з/п</p></td>
-    <th width="10%" align="center"><p>К-сть год.</p></td>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="60%" align="center"><p>Державні вимоги до рівня загальноосвітньої підготовки</p></td>
+    <td width="10%" align="center"><b>№ з/п</b></td>
+    <td width="10%" align="center"><b>К-сть год.</b></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу</b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки</b></td>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td width="10%" style="vertical-align:top !important;">
