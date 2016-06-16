@@ -1,17 +1,17 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
 # Зміст програми
-
-<ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#home">1 клас</a></li>
-<li><a data-toggle="tab" href="#menu1">2 клас</a></li>
-<li><a data-toggle="tab" href="#menu2">3 клас</a></li>
-<li><a data-toggle="tab" href="#menu3">4 клас</a></li>
-</ul>
-
-<div class="tab-content">
-<div id="home" class="tab-pane fade in active">
-<h3><a href="http://workmon14.ed-era.com/1/1_klas.html">1 клас</a></h3>
+<div>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">1 клас</a></li>
+    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">2 клас</a></li>
+    <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">3 клас</a></li>
+    <li role="presentation"><a href="#menu3" aria-controls="menu3" role="tab" data-toggle="tab">4 клас</a></li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="home"><h3><a href="http://workmon14.ed-era.com/1/1_klas.html">1 клас</a></h3>
 <ul type="disc">
 <li><a href="http://workmon14.ed-era.com/1/vstup.html">Вступ</a></li>
 <li><a href="http://workmon14.ed-era.com/1/papir_v%D1%83d%D1%83_i_vlast%D1%83vosti_paperu.html">Папір. Види і властивості паперу</a></li>
@@ -28,8 +28,7 @@
 <li><a href="http://workmon14.ed-era.com/1/ekskursiyi.html">Екскурсії</a></li>
 </ul>
 </div>
-<div id="menu1" class="tab-pane fade">
-<h3><a href="http://workmon14.ed-era.com/2/2_klas.html">2 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu1"><h3><a href="http://workmon14.ed-era.com/2/2_klas.html">2 клас</a></h3>
 <ul type="disc">
 <li><a href="http://workmon14.ed-era.com/2/robota_z_pr%D1%83rodn%D1%83m%D1%83_materialam%D1%83.html">Робота з природними матеріалами</a></li>
 <li><a href="http://workmon14.ed-era.com/2/aplikatsiya_z_v%D1%83kor%D1%83stannyam_n%D1%83tok.html">Аплікація з використанням ниток</a></li>
@@ -45,8 +44,7 @@
 <li><a href="http://workmon14.ed-era.com/2/ekskursiyi.html">Екскурсії</a></li>
 </ul>
 </div>
-<div id="menu2" class="tab-pane fade">
-<h3><a href="http://workmon14.ed-era.com/3/3_klas.html">3 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu2"><h3><a href="http://workmon14.ed-era.com/3/3_klas.html">3 клас</a></h3>
 <ul type="disc">
 <li><a href="http://workmon14.ed-era.com/3/v%D1%83t%D1%83nanka.html">Витинанка</a></li>
 <li><a href="http://workmon14.ed-era.com/3/mozayika.html">Мозаїка</a></li>
@@ -66,8 +64,7 @@
 <li><a href="http://workmon14.ed-era.com/3/ekskursiyi.html">Екскурсії</a></li>
 </ul>
 </div>
-<div id="menu3" class="tab-pane fade">
-<h3><a href="http://workmon14.ed-era.com/4/4_klas.html">4 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu3"><h3><a href="http://workmon14.ed-era.com/4/4_klas.html">4 клас</a></h3>
 <ul type="disc">
 <li><a href="http://workmon14.ed-era.com/4/konstruyuvannya_rukhomikh_modeley_z_kartonu_ta_paperu.html">Конструювання рухомих моделей з картону та паперу</a></li>
 <li><a href="http://workmon14.ed-era.com/4/v%D1%83t%D1%83nanka.html">Сюжетна витинанка</a></li>
@@ -87,6 +84,7 @@
 <li><a href="http://workmon14.ed-era.com/4/papye-mashe.html">Пап’є-маше</a></li>
 <li><a href="http://workmon14.ed-era.com/4/ekskursiyi.html">Екскурсії</a></li>
 </ul>
+</div>
 </div>
 </div>
 
